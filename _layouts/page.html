@@ -7,12 +7,8 @@ layout: default
     <h1>{{ page.title }}</h1>
     <table class="sst" style="max-width:20em">
       <tr>
-        <td class="muted">Joined</td>
+        <td class="muted">Date</td>
         <td>{{ page.date | date: "%Y-%m-%d" }}</td>
-      </tr>
-      <tr>
-        <td class="muted pr">Website</td>
-        <td><a href="https://{{ page.domain }}/packaging?ref=slashpackaging" target="_blank">{{ page.domain }}/packaging</a></td>
       </tr>
       {% if page.tags.size > 0 %}
       <tr>
