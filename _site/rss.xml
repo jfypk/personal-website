@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+
+ <title>Jeffrey Park</title>
+ <link href="http://localhost:4000/rss.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2025-09-24T20:40:36-04:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+ </author>
+
+ 
+ <entry>
+   <title>Amour Vert</title>
+   <link href="http://localhost:4000/amour-vert"/>
+   <updated>2020-04-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/amour-vert</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bite</title>
+   <link href="http://localhost:4000/bite"/>
+   <updated>2020-04-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/bite</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Boie USA</title>
+   <link href="http://localhost:4000/boie-usa"/>
+   <updated>2020-04-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/boie-usa</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>By Humankind</title>
+   <link href="http://localhost:4000/by-humankind"/>
+   <updated>2020-04-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/by-humankind</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>East Fork</title>
+   <link href="http://localhost:4000/east-fork"/>
+   <updated>2020-04-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/east-fork</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Grove Collaborative</title>
+   <link href="http://localhost:4000/grove"/>
+   <updated>2020-04-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/grove</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imperfect Produce</title>
+   <link href="http://localhost:4000/imperfect-produce"/>
+   <updated>2020-04-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/imperfect-produce</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Leaf Shave</title>
+   <link href="http://localhost:4000/leafshave"/>
+   <updated>2020-04-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/leafshave</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Maude</title>
+   <link href="http://localhost:4000/maude"/>
+   <updated>2020-04-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/maude</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Noto Botanics</title>
+   <link href="http://localhost:4000/noto-botanics"/>
+   <updated>2020-04-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/noto-botanics</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Proper Cloth</title>
+   <link href="http://localhost:4000/proper-cloth"/>
+   <updated>2020-04-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/proper-cloth</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ritual</title>
+   <link href="http://localhost:4000/ritual"/>
+   <updated>2020-04-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/ritual</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Rothy's</title>
+   <link href="http://localhost:4000/rothys"/>
+   <updated>2020-04-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/rothys</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Farmer's Dog</title>
+   <link href="http://localhost:4000/the-farmers-dog"/>
+   <updated>2020-04-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/the-farmers-dog</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Spice House</title>
+   <link href="http://localhost:4000/the-spice-house"/>
+   <updated>2020-04-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/the-spice-house</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>YES PLZ</title>
+   <link href="http://localhost:4000/yes-plz"/>
+   <updated>2020-04-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/yes-plz</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Keap</title>
+   <link href="http://localhost:4000/keap"/>
+   <updated>2020-04-14T00:00:00-04:00</updated>
+   <id>http://localhost:4000/keap</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Amazon</title>
+   <link href="http://localhost:4000/amazon"/>
+   <updated>2020-04-19T00:00:00-04:00</updated>
+   <id>http://localhost:4000/amazon</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Luna Volta</title>
+   <link href="http://localhost:4000/luna-volta"/>
+   <updated>2020-04-19T00:00:00-04:00</updated>
+   <id>http://localhost:4000/luna-volta</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Misfits Market</title>
+   <link href="http://localhost:4000/misfits-market"/>
+   <updated>2020-04-19T00:00:00-04:00</updated>
+   <id>http://localhost:4000/misfits-market</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hungryroot</title>
+   <link href="http://localhost:4000/hungryroot"/>
+   <updated>2020-04-21T00:00:00-04:00</updated>
+   <id>http://localhost:4000/hungryroot</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>OUI the People</title>
+   <link href="http://localhost:4000/oui-the-people"/>
+   <updated>2020-04-21T00:00:00-04:00</updated>
+   <id>http://localhost:4000/oui-the-people</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Quip</title>
+   <link href="http://localhost:4000/quip"/>
+   <updated>2020-04-22T00:00:00-04:00</updated>
+   <id>http://localhost:4000/quip</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Thousand</title>
+   <link href="http://localhost:4000/thousand"/>
+   <updated>2020-04-23T00:00:00-04:00</updated>
+   <id>http://localhost:4000/thousand</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Iconic</title>
+   <link href="http://localhost:4000/the-iconic"/>
+   <updated>2020-04-26T00:00:00-04:00</updated>
+   <id>http://localhost:4000/the-iconic</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dropps</title>
+   <link href="http://localhost:4000/dropps"/>
+   <updated>2020-05-05T00:00:00-04:00</updated>
+   <id>http://localhost:4000/dropps</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sabai Design</title>
+   <link href="http://localhost:4000/sabai-design"/>
+   <updated>2020-05-09T00:00:00-04:00</updated>
+   <id>http://localhost:4000/sabai-design</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cocokind</title>
+   <link href="http://localhost:4000/cocokind"/>
+   <updated>2020-05-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/cocokind</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fondfolio</title>
+   <link href="http://localhost:4000/fondfolio"/>
+   <updated>2020-05-14T00:00:00-04:00</updated>
+   <id>http://localhost:4000/fondfolio</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Holden</title>
+   <link href="http://localhost:4000/holden"/>
+   <updated>2020-05-26T00:00:00-04:00</updated>
+   <id>http://localhost:4000/holden</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Handsome Brook Farms</title>
+   <link href="http://localhost:4000/handsome-brook-farms"/>
+   <updated>2020-07-20T00:00:00-04:00</updated>
+   <id>http://localhost:4000/handsome-brook-farms</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Devilish</title>
+   <link href="http://localhost:4000/devilish"/>
+   <updated>2020-08-18T00:00:00-04:00</updated>
+   <id>http://localhost:4000/devilish</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Modern Mending</title>
+   <link href="http://localhost:4000/modern-mending"/>
+   <updated>2020-08-18T00:00:00-04:00</updated>
+   <id>http://localhost:4000/modern-mending</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Green Ablutions</title>
+   <link href="http://localhost:4000/green-ablutions"/>
+   <updated>2020-10-06T00:00:00-04:00</updated>
+   <id>http://localhost:4000/green-ablutions</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Rumpl</title>
+   <link href="http://localhost:4000/rumpl"/>
+   <updated>2020-10-27T00:00:00-04:00</updated>
+   <id>http://localhost:4000/rumpl</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sunbasket</title>
+   <link href="http://localhost:4000/sunbasket"/>
+   <updated>2021-01-28T00:00:00-05:00</updated>
+   <id>http://localhost:4000/sunbasket</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>OFFHOURS</title>
+   <link href="http://localhost:4000/offhours"/>
+   <updated>2021-02-11T00:00:00-05:00</updated>
+   <id>http://localhost:4000/offhours</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Riverford Organic Farmers</title>
+   <link href="http://localhost:4000/riverford-organic-farmers"/>
+   <updated>2021-02-11T00:00:00-05:00</updated>
+   <id>http://localhost:4000/riverford-organic-farmers</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Soft Services</title>
+   <link href="http://localhost:4000/soft-services"/>
+   <updated>2021-06-21T00:00:00-04:00</updated>
+   <id>http://localhost:4000/soft-services</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ecomondo</title>
+   <link href="http://localhost:4000/ecomondo"/>
+   <updated>2021-06-28T00:00:00-04:00</updated>
+   <id>http://localhost:4000/ecomondo</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SLAY Coffee</title>
+   <link href="http://localhost:4000/slay-coffee"/>
+   <updated>2021-12-18T00:00:00-05:00</updated>
+   <id>http://localhost:4000/slay-coffee</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Life Elements</title>
+   <link href="http://localhost:4000/life-elements"/>
+   <updated>2022-01-31T00:00:00-05:00</updated>
+   <id>http://localhost:4000/life-elements</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gipfelhirsch</title>
+   <link href="http://localhost:4000/gipfelhirsch"/>
+   <updated>2022-02-15T00:00:00-05:00</updated>
+   <id>http://localhost:4000/gipfelhirsch</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Booni doon</title>
+   <link href="http://localhost:4000/boonidoon"/>
+   <updated>2022-05-28T00:00:00-04:00</updated>
+   <id>http://localhost:4000/boonidoon</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Accents Intl.</title>
+   <link href="http://localhost:4000/accentsintl"/>
+   <updated>2022-10-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/accentsintl</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>

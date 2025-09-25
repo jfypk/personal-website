@@ -1,0 +1,49 @@
+:root {
+  --font-family: -apple-system, BlinkMacSystemFont, "Inter", "IBM Plex Sans", Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  --border-radius: 4px;
+
+  --font-small: 0.933em;
+  --font-smaller: 0.875em;
+  --font-smallest: 0.8em;
+
+  --paragraph-max-width: 35em;
+}
+
+:root {
+  --color-background-primary: #FFFCF0;
+  --color-background-secondary: #F2F0E5;
+  --color-background-hover: rgba(36, 131, 123, 0.1);
+  --color-selection: rgba(36, 131, 123, 0.1);
+
+  --color-primary: #100F0F;
+
+  --color-muted: #878580;
+  --color-faint: #B7B5AC;
+
+  --color-action: #BC5215;
+  --color-action-muted: rgba(188, 82, 21, 0.6);
+  --color-action-faint: rgba(188, 82, 21, 0.35);
+
+  --color-outline: #E6E4D9;
+  --color-outline-hover: #DAD8CE;
+  --color-outline-active: #CECDC3;
+
+}
+
+.theme-dark {
+  --color-background-primary: #1C1B1A;
+  --color-background-secondary: #282726;
+
+  --color-primary: #CECDC3;
+
+  --color-muted: #B7B5AC;
+  --color-faint: #6F6E69;
+
+  --color-action: #DA702C;
+
+  --color-outline: #403E3C;
+  --color-outline-hover: #575653;
+  --color-outline-active: #6F6E69;
+}
+
