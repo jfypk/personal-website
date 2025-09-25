@@ -1,10 +1,10 @@
-name:                Jeffrey Park
-title:               Jeffrey Park
-twitter:             slashpackaging
-domain:              slashpackaging.org
-url:                 https://slashpackaging.org
+name:                Jeff Park
+title:               Jeff Park
+twitter:             
+domain:              jpark.fyi
+url:                 https://jpark.fyi
 include:             ['_pages','_redirects']
-metadescription:     "Slash Packaging is a directory of businesses that offer packaging sustainability information on their website at the URL /packaging"
+metadescription:     "I'm Jeff Park. Welcome to my website."
 
 # You may need to change the base URL depending on your deploy configuration.
 # Specifically, when using GitHub Pages, the baseurl should point to where GitHub
